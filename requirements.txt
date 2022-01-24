@@ -1,0 +1,4 @@
+tkinter
+pygame==2.0
+os
+random
